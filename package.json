@@ -1,0 +1,8 @@
+{
+  "name": "barnsley-fern",
+  "version": "1.0.0",
+  "repository": "https://github.com/jarpe/barnsley-fern",
+  "author": "Jarppe",
+  "license": "MIT",
+  "private": true
+}
